@@ -1,0 +1,22 @@
+{
+  "name": "playing-with-react",
+  "version": "1.0.0",
+  "description": "1st experience playing with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christopher-John-Roberts/playing-with-react.git"
+  },
+  "author": "Christopher John Roberts\u001b[H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christopher-John-Roberts/playing-with-react/issues"
+  },
+  "homepage": "https://github.com/Christopher-John-Roberts/playing-with-react#readme",
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}
